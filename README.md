@@ -8,7 +8,10 @@ Opa, eu sou o Rafael Firmino
 🎯 Objetivo: evoluir um pouco todo dia
 
 ## Tecnologias
+- Python 
 - HTML
 - CSS
 - JavaScript
-- Python
+
+##Foco principal
+Programador python, focado em analise de dados
