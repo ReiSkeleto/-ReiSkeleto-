@@ -13,5 +13,5 @@ Opa, eu sou o Rafael Firmino
 - CSS
 - JavaScript
 
-##Foco principal
+## Foco principal
 Programador python, focado em analise de dados
